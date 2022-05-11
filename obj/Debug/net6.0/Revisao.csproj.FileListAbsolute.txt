@@ -1,0 +1,15 @@
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+C:\Git\csharp-exemplo\primeirospassosdotnet\Revisao\obj\Debug\net6.0\ref\Revisao.dll
